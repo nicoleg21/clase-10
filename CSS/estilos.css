@@ -339,7 +339,7 @@ body{
 height: 300px;
 width: 300px;
 margin-block-end: 2rem;
-transition: 0.5s filter ;
+transition: 0.4s filter ;
 }
 .imagen1:hover{
 filter: brightness(0.3);
