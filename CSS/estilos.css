@@ -297,7 +297,7 @@ body{
  p{
     font-family: 'Prata', serif;
     font-size: 1.5rem;
-   color: black;
+    color: orange;
     display: grid;
     justify-content: center;
    align-items: center;
